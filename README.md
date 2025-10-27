@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyash Daware</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on [my portfolio website](https://portfoliosample-coral.vercel.app/)
+- 🔭 I’m currently working on [my portfolio website](https://shreyash-wheat.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/noNameDS09](https://github.com/noNameDS09)
 
