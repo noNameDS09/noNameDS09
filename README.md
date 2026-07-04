@@ -34,7 +34,7 @@ I'm a **B.E AIDS** student at **Savitribai Phule Pune University**, passionate a
 *   🌱 I’m currently learning **Advanced Deep Learning & System Programming**
 *   👯 I’m looking to collaborate on **Open Source AI & Cloud Projects**
 *   💬 Ask me about **AI, ML/DL, Next.js, or Cloud Computing**
-*   ⚡ Fun fact: I'm building my own Operating System from scratch!
+<!--*   ⚡ Fun fact: I'm building my own Operating System from scratch! -->
 
 ---
 
