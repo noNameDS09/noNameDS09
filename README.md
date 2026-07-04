@@ -102,7 +102,7 @@ I'm a **B.E AIDS** student at **Savitribai Phule Pune University**, passionate a
   <p>Let's create something meaningful together!</p>
 
   <a href="https://x.com/noNameDS1022">
-    <img src="https://img.shields.io/twitter/follow/mrhyperion101?style=social" alt="Twitter" />
+    <img src="https://img.shields.io/twitter/follow/nonameds?style=social" alt="Twitter" />
   </a>
 </div>
 
