@@ -92,7 +92,7 @@ I'm a **B.E AIDS** student at **Savitribai Phule Pune University**, passionate a
 | **[FarmVichar](https://github.com/)** | AI-driven agricultural platform with multilingual chat, commodity price prediction, and secure RESTful APIs. Built for Smart India Hackathon. | `React Native` `FastAPI` `Firebase` `Python` |
 | **[Wildlife Detection Pipeline](https://github.com/)** | Real-time computer vision pipeline achieving 80% mAP across 19 animal classes with multi-object tracking at 25-30 FPS. | `YOLOv8` `ByteTrack` `PyTorch` `OpenCV` |
 | **[SKI Industrial Website](https://github.com/)** | Fully responsive corporate website for a bakery machinery manufacturer with SEO optimization and fast load times. | `Next.js` `Vercel` `UI/UX` `SEO` |
-| **[Enterprise-RAG](https://github.com/noNameDS09/enterprise-rag)** |Enterprise RAG chatbot for organizational knowledge management with secure, citation-backed semantic search across PDFs, DOCX, PPTX, XLSX, emails, and more using hybrid retrieval, conversational memory, OCR, and role-based access control. | `Next.js` `React` `TypeScript` `FastAPI` `LangChain` `Qdrant` `PostgreSQL` `Docker` `Kubernetes` `Open=Source`|
+| **[Enterprise-RAG](https://github.com/noNameDS09/enterprise-rag)** |Enterprise RAG chatbot for organizational knowledge management with secure, citation-backed semantic search across PDFs, DOCX, PPTX, XLSX, emails, and more using hybrid retrieval, conversational memory, OCR, and role-based access control. | `Next.js` `React` `TypeScript` `FastAPI` `LangChain` `Qdrant` `PostgreSQL` `Docker` `Kubernetes` `Open-Source`|
 
 
 
