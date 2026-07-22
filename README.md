@@ -11,13 +11,13 @@
   <a href="mailto:nonameds1022@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/shreyash-daware-3ba6672bb">
+  <a href="https://www.linkedin.com/in/shreyashdaware">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <!-- <a href="https://www.instagram.com/mrhyperion">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> -->
-  <a href="https://shreyash-wheat.vercel.app/">
+  <a href="https://avadhoot.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-101827?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 
