@@ -4,7 +4,7 @@
 
 <br/>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi+there!+%F0%9F%91%8B+I'm+Shreyash+Daware;Aspiring+AI/ML+Engineer+%26+Software+Engineer;Cloud+Innovator+%7C+OS+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi+there!+%F0%9F%91%8B+I'm+Shreyash+Daware;Aspiring+AI/ML+Engineer+%26+Software+Engineer;Cloud+Innovator+%7C+AI+Developer;FastAPI+LangChain+Kubernetes+RAG" alt="Typing SVG" />
 
   <br/>
 
@@ -100,9 +100,9 @@ Currently I'm building an enterprise-scale [Retrieval-Augmented Generation](http
 
 | Project | Description | Tech Stack |
 |:---|:---|:---:|
-| **[FarmVichar](https://github.com/)** | AI-driven agricultural platform with multilingual chat, commodity price prediction, and secure RESTful APIs. Built for Smart India Hackathon. | `React Native` `FastAPI` `Firebase` `Python` |
-| **[Wildlife Detection Pipeline](https://github.com/)** | Real-time computer vision pipeline achieving 80% mAP across 19 animal classes with multi-object tracking at 25-30 FPS. | `YOLOv8` `ByteTrack` `PyTorch` `OpenCV` |
-| **[SKI Industrial Website](https://github.com/)** | Fully responsive corporate website for a bakery machinery manufacturer with SEO optimization and fast load times. | `Next.js` `Vercel` `UI/UX` `SEO` |
+| **[FarmVichar]([https://github.com/](https://github.com/noNameDS09/FarmVicharMain))** | AI-driven agricultural platform with multilingual chat, commodity price prediction, and secure RESTful APIs. Built for Smart India Hackathon. | `React Native` `FastAPI` `Firebase` `Python` |
+| **[Wildlife Detection Pipeline]([https://github.com/](https://github.com/noNameDS09/animal-detection-identification-counting))** | Real-time computer vision pipeline achieving 80% mAP across 19 animal classes with multi-object tracking at 25-30 FPS. | `YOLOv8` `ByteTrack` `PyTorch` `OpenCV` |
+| **[SKI Industrial Website](https://ski-mocha.vercel.app/)** | Fully responsive corporate website for a bakery machinery manufacturer with SEO optimization and fast load times. | `Next.js` `Vercel` `UI/UX` `SEO` |
 | **[Enterprise-RAG](https://github.com/noNameDS09/enterprise-rag)** |Enterprise RAG chatbot for organizational knowledge management with secure, citation-backed semantic search across PDFs, DOCX, PPTX, XLSX, emails, and more using hybrid retrieval, conversational memory, OCR, and role-based access control. | `Next.js` `React` `TypeScript` `FastAPI` `LangChain` `Qdrant` `PostgreSQL` `Docker` `Kubernetes` `Open-Source`|
 
 
