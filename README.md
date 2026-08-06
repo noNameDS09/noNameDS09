@@ -32,13 +32,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.E AIDS** student at **Savitribai Phule Pune University**, passionate about building revolutionary software and exploring the depths of AI. I actively contribute to the developer ecosystem as a **Google Student Innovator** & **Open Source Connect**.
+## 👨‍💻 About Me
 
-*   🔭 I'm currently working on **[AI Document Editor with LibreChat](https://github.com/noNameDS09/MyLibreChat)** — An open-source split-pane AI document editing experience: select text → AI enhances/rephrases → auto-applies edits to `.docx` files in real time
+I'm **Shreyash Daware**, a B.E. Artificial Intelligence & Data Science student at **Savitribai Phule Pune University**.
 
-*   🌱 I’m currently learning **Advanced Deep Learning & System Programming**
-*   👯 I’m looking to collaborate on **Open Source AI & Cloud Projects**
-*   💬 Ask me about **AI, ML/DL, Next.js, or Cloud Computing**
+I enjoy designing production-grade AI systems rather than just training machine learning models. My primary interests are **LLMs, Retrieval-Augmented Generation (RAG), Distributed Systems, Backend Engineering, and Cloud Infrastructure**.
+
+Currently I'm building an enterprise-scale [Retrieval-Augmented Generation](https://github.com/noNameDS09/enterprise-rag) platform that focuses on scalable document ingestion, hybrid retrieval, semantic search, conversational AI, and secure multi-user deployments.
+
+- 🔭 Building **Enterprise-RAG** — an open-source production-ready RAG platform
+- 🌱 Learning **Distributed Systems, LLM Engineering, Kubernetes, Vector Databases & AI Infrastructure**
+- 💡 Interested in **Backend Engineering, AI Systems, Search Infrastructure and Cloud**
+- 🤝 Open to collaborating on AI infrastructure, developer tools and open-source projects
+- 💬 Ask me about Machine Learning, Deep Learning, LLMs, AI-Agents, LangChain, LangGraph, RAG, FastAPI, Python, Next.js and System Design
 <!--*   ⚡ Fun fact: I'm building my own Operating System from scratch! -->
 
 ---
