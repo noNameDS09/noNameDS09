@@ -30,7 +30,6 @@
 
 <br/>
 
-## 👨‍💻 About Me
 
 ## 👨‍💻 About Me
 
