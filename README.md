@@ -33,19 +33,21 @@
 
 ## 👨‍💻 About Me
 
-I'm **Shreyash Daware**, a B.E. Artificial Intelligence & Data Science student at **Savitribai Phule Pune University**.
+I'm **Shreyash Daware**, an Artificial Intelligence and Data Science undergraduate at **Savitribai Phule Pune University**.
 
-I enjoy designing production-grade AI systems rather than just training machine learning models. My primary interests are **LLMs, Retrieval-Augmented Generation (RAG), Distributed Systems, Backend Engineering, and Cloud Infrastructure**.
+I enjoy building end-to-end software rather than working only on isolated models. My current focus is on **Agentic AI systems**, **LLM applications**, **Retrieval-Augmented Generation (RAG)**, **backend engineering**, **computer vision**, and **full-stack development**. I am particularly interested in how agents reason, select and execute tools, maintain state, and interact with external systems. I care about the engineering behind these systems: orchestration, data flow, APIs, persistence, evaluation, security, and deployment.
+- 🔭 Building Agentic **AI systems**, Enterprise RAG, and KalaSetu.
+- 🧠 Exploring agent orchestration, tool calling, multi-agent workflows, LLM engineering, retrieval systems, and computer vision.
+- ⚙️ Interested in backend engineering, system design, and reliable AI-powered products.
+- 🤝 Open to collaborating on useful developer tools, AI applications, and open-source projects.
 
-Currently I'm building an enterprise-scale [Retrieval-Augmented Generation](https://github.com/noNameDS09/enterprise-rag) platform that focuses on scalable document ingestion, hybrid retrieval, semantic search, conversational AI, and secure multi-user deployments.
-
-- 🔭 Building **Enterprise-RAG** — an open-source production-ready RAG platform
-- 🌱 Learning **Distributed Systems, LLM Engineering, Kubernetes, Vector Databases & AI Infrastructure**
-- 💡 Interested in **Backend Engineering, AI Systems, Search Infrastructure and Cloud**
-- 🤝 Open to collaborating on AI infrastructure, developer tools and open-source projects
-- 💬 Ask me about Machine Learning, Deep Learning, LLMs, AI-Agents, LangChain, LangGraph, RAG, FastAPI, Python, Next.js and System Design
-<!--*   ⚡ Fun fact: I'm building my own Operating System from scratch! -->
-
+| Project | What it does | Technologies |
+|:--|:--|:--|
+| [**Agentic AI — Tool-Using Agent Backend**](https://github.com/noNameDS09/ai_agents) | A production-oriented, tool-using agent backend built around a LangGraph agent loop. It exposes a FastAPI API and React/Vite interface, executes 31 allowlisted tools (26 local tools and 5 Tavily-backed web/research tools), and persists conversations and graph checkpoints in PostgreSQL. Includes API-key authentication, input validation, rate limiting, and audit events. The repository also documents ComplianceOS, a finance-compliance application planned around multi-agent workflows, RAG, and audit trails. | `Python 3.12` `FastAPI` `LangGraph` `OpenRouter` `PostgreSQL` `SQLAlchemy` `React` `Vite` `Tavily MCP` `pytest` `uv` |
+| [**KalaSetu — SIH 2026**](https://github.com/noNameDS09/SIH2K26) | A voice-first AI platform for artisan product cataloging. It is designed to turn product photos and spoken descriptions into structured product information, pricing guidance, and market-ready listings, with support for regional-language workflows. | `Flutter` `Dart` `Next.js` `FastAPI` `LangChain` `LangGraph` `Firebase` `PostgreSQL` `Docker` |
+| [**Enterprise RAG**](https://github.com/noNameDS09/enterprise-rag) | A document question-answering platform. Its retrieval pipeline uses Qdrant for dense retrieval, followed by deduplication, score filtering, and cross-encoder reranking. It also includes an evaluation framework for comparing retrieval and generation changes. | `Python` `FastAPI` `Next.js` `PostgreSQL` `Qdrant` `Redis` `Ollama` `Docker` `uv` |
+| [**Wildlife Detection, Tracking & Counting**](https://github.com/noNameDS09/animal-detection-identification-counting) | A computer-vision pipeline for detecting animals in video, tracking individual detections with ByteTrack, and generating unique-animal summaries in JSON and CSV formats. | `Python` `YOLO` `ByteTrack` `PyTorch` `OpenCV` |
+| [**SK Industries Website**](https://ski-mocha.vercel.app/) | A responsive industrial website created for a bakery-machinery manufacturer, with product-focused presentation and a modern web interface. | `Next.js` `React` `TypeScript` `UI/UX` `Vercel` |
 ---
 
 ### <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=2000&pause=1000&color=3498DB&center=false&vCenter=true&width=300&height=35&lines=%F0%9F%92%BB+Tech+Stack" alt="Tech Stack" />
