@@ -41,6 +41,24 @@ I enjoy building end-to-end software rather than working only on isolated models
 - ⚙️ Interested in backend engineering, system design, and reliable AI-powered products.
 - 🤝 Open to collaborating on useful developer tools, AI applications, and open-source projects.
 
+---
+
+## 🌍 Open Source Contributions
+
+### [Semantica](https://github.com/semantica-agi/semantica)
+**[PR #2194 — Fix: Use Native Pinecone Namespace in Store Flush](https://github.com/semantica-agi/semantica/pull/2194)**
+
+- Fixed Pinecone namespace handling in the store flush operation by using the native namespace API.
+- Preserved backend casing during configuration lookup to ensure correct backend resolution.
+- Optimized Pinecone deletion operations by implementing batched deletes.
+
+**Commit:** [faf4e82](https://github.com/semantica-agi/semantica/commit/faf4e82751031c6b0c7de78a09a53a2a684f1a0d)
+
+**Technologies:** `Python` `Pinecone` `Vector Databases` `Backend Engineering`
+
+
+---
+
 | Project | What it does | Technologies |
 |:--|:--|:--|
 | [**Agentic AI — Tool-Using Agent Backend**](https://github.com/noNameDS09/ai_agents) | A production-oriented, tool-using agent backend built around a LangGraph agent loop. It exposes a FastAPI API and React/Vite interface, executes 31 allowlisted tools (26 local tools and 5 Tavily-backed web/research tools), and persists conversations and graph checkpoints in PostgreSQL. Includes API-key authentication, input validation, rate limiting, and audit events. The repository also documents ComplianceOS, a finance-compliance application planned around multi-agent workflows, RAG, and audit trails. | `Python 3.12` `FastAPI` `LangGraph` `OpenRouter` `PostgreSQL` `SQLAlchemy` `React` `Vite` `Tavily MCP` `pytest` `uv` |
